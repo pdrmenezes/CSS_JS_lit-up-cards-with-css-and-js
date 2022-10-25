@@ -10,7 +10,7 @@ Practicing a few CSS key-concepts (and a bit of JS):
 - viewport width & viewport height
 - z-indexes
 - gradients
-- variables
+- custom properties
 - transitions
 
 #### JS
